@@ -4,7 +4,6 @@ Video Player app
 Screenshots :-
 </br>
 <img src="https://github.com/manjeetdeswal/Video-Player/blob/master/app/release/1.png" width=30% height=30%/>
-<img src="https://github.com/manjeetdeswal/Video-Player/blob/master/app/release/2.png" width=30% height=30%/>
 </br>
  <b>Features👇 : </b>
 <ul>
